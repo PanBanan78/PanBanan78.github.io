@@ -23,7 +23,7 @@ title: Pan Banan Blog # the main title
 tagline: CTF writeups, reverse engineering and more... # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A blog ti be able to share writeups, and anything else cyber related!
+  A blog to be able to share writeups, and anything else cyber related!
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "http://blog.panbanan.me"
@@ -41,8 +41,8 @@ social:
   email: oskar.matacz2001@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    # - https://twitter.com/username # change to your twitter homepage
+    # - https://github.com/username # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     - https://www.linkedin.com/in/oskar-matacz-9b85b616b/
